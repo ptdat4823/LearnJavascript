@@ -23,3 +23,20 @@ VD: index.js
 - Thêm vào file .html bằng cách dùng thẻ <script src=""> </script>
 VD: <script src="./index.js"></script>
 
+***Dùng các dấu nháy để mô tả string
+- Có thể dùng các dấu nháy ``, '', "" để bọc các string
+- Các dấu nằm trong trong dấu khác sẽ được in ra
+- Dấu nằm ngoài cùng sẽ dùng để chứa string chứ không được in ra
+VD: 	console.log('my name is "Dat"');
+		console.log('my name is `Dat`');
+		console.log(`my name is 'Dat'`);
+		console.log(`my name is "Dat"`);
+		console.log("my name is 'Dat'");
+		console.log("my name is `Dat`");
+--> output:
+		my name is "Dat"
+		my name is `Dat`
+		my name is 'Dat'
+		my name is "Dat"
+		my name is 'Dat'
+		my name is `Dat`
