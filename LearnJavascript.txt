@@ -1,4 +1,7 @@
-Học trên yotube, link: https://www.youtube.com/watch?v=0euD0KGryIU&list=PLncHg6Kn2JT5dfQqpVtfNYvv3EBVHHVKo&index=5
+Học trên yotube, kênh của Hỏi dân IT
+link: https://www.youtube.com/watch?v=0euD0KGryIU&list=PLncHg6Kn2JT5dfQqpVtfNYvv3EBVHHVKo&index=5
+
+***Lưu ý cách đặt tên file ứng với video trên kênh của hỏi dân IT
 
 ***Setup environment:
 - Google chrome: Language English
@@ -19,3 +22,4 @@ VD: 	<script>
 VD: index.js
 - Thêm vào file .html bằng cách dùng thẻ <script src=""> </script>
 VD: <script src="./index.js"></script>
+
