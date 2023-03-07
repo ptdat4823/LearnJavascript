@@ -40,3 +40,23 @@ VD: 	console.log('my name is "Dat"');
 		my name is "Dat"
 		my name is 'Dat'
 		my name is `Dat`
+
+***Một số phím tắt Visual Studio Code:
+- Ctrl + KC: comment nhiều dòng   			hoặc Ctrl + / cho comment và uncomment
+- Ctrl + KU: uncomment nhiều dòng
+- for + tab: tạo nhanh vòng lặp for
+- Ctrl + KD: format code nhanh
+- Shift + Alt + mũi tên xuống hoặc lên: copy dòng đó xuống hoặc lên: Chọn tất cả các từ giống với từ ngay con trỏ
+- Ctrl + Enter: Chèn một dòng bên dưới
+- Ctrl + Shift + Enter: Chèn một dòng bên trên: Chọn tất cả các từ giống với từ ngay con trỏ
+- Ctrl + Shift + K: Xóa dòng hiện tại: Chọn tất cả các từ giống với từ ngay con trỏ
+- Ctrl + D: Chọn các từ giống với từ ngay con trỏ
+- Ctrl + U: Dùng khi Ctrl + D quá tay
+- Ctrl + Shift + L: Chọn tất cả các từ giống với từ ngay con trỏ
+- Ctrl + dấu cộng hoặc trừ: Phóng to hoặc thu nhỏ phông chữ trong VSCode
+- Ctrl + ]: đẩy dòng sang phải
+- Ctrl + [: đẩy dòng sang trái
+
+***Syntax:
+console.log(<Chuỗi các biến in ra màn hình>)
+VD: console.log("x = ", x, "y = ", y);
