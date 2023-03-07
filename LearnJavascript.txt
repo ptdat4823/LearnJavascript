@@ -1,0 +1,21 @@
+Học trên yotube, link: https://www.youtube.com/watch?v=0euD0KGryIU&list=PLncHg6Kn2JT5dfQqpVtfNYvv3EBVHHVKo&index=5
+
+***Setup environment:
+- Google chrome: Language English
+- Visual Studio Code
+
+***Có 2 cách dùng Javascript:
+- Nhúng Javscript vào html
+- Dùng file khác
+
+***Nhúng Javscript vào html:
+- Dùng thẻ Script
+VD: 	<script> 
+    		alert("hi")
+	</script>
+
+***Dùng file khác để chèn Javascript:
+- Tạo file có đuôi .js
+VD: index.js
+- Thêm vào file .html bằng cách dùng thẻ <script src=""> </script>
+VD: <script src="./index.js"></script>
