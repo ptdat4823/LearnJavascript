@@ -60,3 +60,17 @@ VD: 	console.log('my name is "Dat"');
 ***Syntax:
 console.log(<Chuỗi các biến in ra màn hình>)
 VD: console.log("x = ", x, "y = ", y);
+slice(startIndex, lastIndex);
+substring(startIndex, lastIndex);
+substr(startIndex, length);
+
+***Template string:
+- Dùng dấu `` để bọc bên ngoài string
+- Để lắp biến vào bên trong thì dùng: ${<biến>}
+VD: let name = 'dat', age = 20;
+console.log(`my name is '${name}'`);
+console.log(`I am ${age} yearsold`);
+
+***Lỗi có thể gặp:
+- Để thẻ <script> trước thẻ khác có thể khiến cho khi gọi đến thẻ đó bằng id gây lỗi
+- Thao tác với console không gây lỗi trước sau với các thẻ
