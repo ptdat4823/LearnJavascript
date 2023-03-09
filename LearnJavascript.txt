@@ -74,3 +74,8 @@ console.log(`I am ${age} yearsold`);
 ***Lỗi có thể gặp:
 - Để thẻ <script> trước thẻ khác có thể khiến cho khi gọi đến thẻ đó bằng id gây lỗi
 - Thao tác với console không gây lỗi trước sau với các thẻ
+
+***Kiểu dữ liệu JSON:
+- Dùng để giao tiếp giữa FE và BE
+- Dùng gần giống object
+VD: JSON "{name : 'Dat', age : 20}"
